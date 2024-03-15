@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\3)Menu_olusturma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D5276E-2AC8-471F-89BA-5B6212BFFFFA}|3)Menu_olusturma\\3)Menu_olusturma.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\3)menu_olusturma\\3)menu_olusturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D5276E-2AC8-471F-89BA-5B6212BFFFFA}|3)Menu_olusturma\\3)Menu_olusturma.csproj|solutionrelative:3)menu_olusturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D5276E-2AC8-471F-89BA-5B6212BFFFFA}|3)Menu_olusturma\\3)Menu_olusturma.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\3)menu_olusturma\\3)menu_olusturma\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D5276E-2AC8-471F-89BA-5B6212BFFFFA}|3)Menu_olusturma\\3)Menu_olusturma.csproj|solutionrelative:3)menu_olusturma\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D5276E-2AC8-471F-89BA-5B6212BFFFFA}|3)Menu_olusturma\\3)Menu_olusturma.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\3)menu_olusturma\\3)menu_olusturma\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D5276E-2AC8-471F-89BA-5B6212BFFFFA}|3)Menu_olusturma\\3)Menu_olusturma.csproj|solutionrelative:3)menu_olusturma\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\3)Menu_olusturma\\3)Menu_olusturma\\Program.cs",
+              "RelativeDocumentMoniker": "3)Menu_olusturma\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\3)Menu_olusturma\\3)Menu_olusturma\\Program.cs",
+              "RelativeToolTip": "3)Menu_olusturma\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:45:06.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Liste.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\3)Menu_olusturma\\3)Menu_olusturma\\Liste.cs",
+              "RelativeDocumentMoniker": "3)Menu_olusturma\\Liste.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\3)Menu_olusturma\\3)Menu_olusturma\\Liste.cs",
+              "RelativeToolTip": "3)Menu_olusturma\\Liste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:45:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\3)Menu_olusturma\\3)Menu_olusturma\\Node.cs",
+              "RelativeDocumentMoniker": "3)Menu_olusturma\\Node.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\3)Menu_olusturma\\3)Menu_olusturma\\Node.cs",
+              "RelativeToolTip": "3)Menu_olusturma\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:45:16.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

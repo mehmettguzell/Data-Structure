@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\bin\Debug\net8.0\3)Menu_olusturma.exe
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\bin\Debug\net8.0\3)Menu_olusturma.deps.json
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\bin\Debug\net8.0\3)Menu_olusturma.runtimeconfig.json
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\bin\Debug\net8.0\3)Menu_olusturma.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\bin\Debug\net8.0\3)Menu_olusturma.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\3)Menu_olusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\3)Menu_olusturma.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\3)Menu_olusturma.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\3)Menu_olusturma.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\3)Menu_olusturma.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\refint\3)Menu_olusturma.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\3)Menu_olusturma.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\3)Menu_olusturma.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\3)Menu_olusturma\3)Menu_olusturma\obj\Debug\net8.0\ref\3)Menu_olusturma.dll
