@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\bin\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.exe
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\bin\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.deps.json
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\bin\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.runtimeconfig.json
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\bin\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\bin\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\refint\2)tek yönlü doğrusal lista eleman silme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\2)tek yönlü doğrusal lista eleman silme.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\2)tek yönlü doğrusal lista eleman silme\2)tek yönlü doğrusal lista eleman silme\obj\Debug\net8.0\ref\2)tek yönlü doğrusal lista eleman silme.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47833B27-168E-4E3D-9C23-3B9A16837BEA}|2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47833B27-168E-4E3D-9C23-3B9A16837BEA}|2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme.csproj|solutionrelative:2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47833B27-168E-4E3D-9C23-3B9A16837BEA}|2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47833B27-168E-4E3D-9C23-3B9A16837BEA}|2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme.csproj|solutionrelative:2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47833B27-168E-4E3D-9C23-3B9A16837BEA}|2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47833B27-168E-4E3D-9C23-3B9A16837BEA}|2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme.csproj|solutionrelative:2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Liste.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Liste.cs",
+              "RelativeDocumentMoniker": "2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Liste.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Liste.cs",
+              "RelativeToolTip": "2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Liste.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:52:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Program.cs",
+              "RelativeDocumentMoniker": "2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Program.cs",
+              "RelativeToolTip": "2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:15:02.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Node.cs",
+              "RelativeDocumentMoniker": "2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Node.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Node.cs",
+              "RelativeToolTip": "2)tek y\u00F6nl\u00FC do\u011Frusal lista eleman silme\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:52:31.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

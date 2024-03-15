@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\linked list\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|solutionrelative:linked list\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\linked list\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|solutionrelative:linked list\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|c:\\users\\mehme\\source\\repos\\data structure\\linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|solutionrelative:linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\Linked list\\Program.cs",
+              "RelativeDocumentMoniker": "Linked list\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\Linked list\\Program.cs",
+              "RelativeToolTip": "Linked list\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:09:22.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\Linked list\\Node.cs",
+              "RelativeDocumentMoniker": "Linked list\\Node.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\Linked list\\Node.cs",
+              "RelativeToolTip": "Linked list\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:09:21.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Liste.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\Linked list\\Liste.cs",
+              "RelativeDocumentMoniker": "Linked list\\Liste.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structure\\Linked list\\1)tek y\u00F6nl\u00FC do\u011Frusal liste eleman ekleme\\Linked list\\Liste.cs",
+              "RelativeToolTip": "Linked list\\Liste.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:09:20.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

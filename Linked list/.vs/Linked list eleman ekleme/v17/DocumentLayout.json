@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\Data structor\\Linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|c:\\users\\mehme\\source\\repos\\data structor\\linked list\\linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|solutionrelative:linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|c:\\users\\mehme\\source\\repos\\data structor\\linked list\\linked list\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|solutionrelative:linked list\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|c:\\users\\mehme\\source\\repos\\data structor\\linked list\\linked list\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49535AFA-0D1A-4D78-9B65-67FDCB8737DF}|Linked list\\Linked_list_eleman_ekleme.csproj|solutionrelative:linked list\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structor\\Linked list\\Linked list\\Program.cs",
+              "RelativeDocumentMoniker": "Linked list\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structor\\Linked list\\Linked list\\Program.cs",
+              "RelativeToolTip": "Linked list\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:45:00.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Liste.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structor\\Linked list\\Linked list\\Liste.cs",
+              "RelativeDocumentMoniker": "Linked list\\Liste.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structor\\Linked list\\Linked list\\Liste.cs",
+              "RelativeToolTip": "Linked list\\Liste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:41:04.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Data structor\\Linked list\\Linked list\\Node.cs",
+              "RelativeDocumentMoniker": "Linked list\\Node.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Data structor\\Linked list\\Linked list\\Node.cs",
+              "RelativeToolTip": "Linked list\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:46:44.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\bin\Debug\net8.0\Linked list.exe
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\bin\Debug\net8.0\Linked list.deps.json
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\bin\Debug\net8.0\Linked list.runtimeconfig.json
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\bin\Debug\net8.0\Linked list.dll
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\bin\Debug\net8.0\Linked list.pdb
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\Linked list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\Linked list.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\Linked list.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\Linked list.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\Linked list.dll
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\refint\Linked list.dll
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\Linked list.pdb
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\Linked list.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Data structor\Linked list\Linked list\obj\Debug\net8.0\ref\Linked list.dll
