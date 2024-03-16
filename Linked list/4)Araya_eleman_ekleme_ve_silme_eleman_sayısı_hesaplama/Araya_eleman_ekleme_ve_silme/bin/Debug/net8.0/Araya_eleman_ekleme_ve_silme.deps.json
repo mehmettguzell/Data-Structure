@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Araya_eleman_ekleme_ve_silme/1.0.0": {
+        "runtime": {
+          "Araya_eleman_ekleme_ve_silme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Araya_eleman_ekleme_ve_silme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
