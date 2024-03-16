@@ -1,0 +1,1 @@
+Projemde, Node, Liste ve Program sınıflarını içeren tek yönlü doğrusal bir bağlı liste yapısı oluşturdum. Liste sınıfı içinde, bağlı listenin başına ve sonuna eleman eklemeyi sağlayan metodlar tanımladım. Kodlarım, "kodlarım" klasörü içinde ilgili isimlere sahip dosyalarda bulunmaktadır. Ayrıca, Visual Studio proje dosyamı da ekledim.

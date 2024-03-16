@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2)tek yönlü doğrusal lista eleman silme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac801dbe97391b9f1e5dc5d937a2a9a9ba0d568")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab58e1c694568751d2144d6e74d0613bced727f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("2)tek yönlü doğrusal lista eleman silme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2)tek yönlü doğrusal lista eleman silme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
