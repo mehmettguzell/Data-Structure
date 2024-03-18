@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\bin\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.exe
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\bin\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.deps.json
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\bin\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.runtimeconfig.json
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\bin\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\bin\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\refint\5)cift_yonlu_liste_basa_ve_sona_ekleme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\5)cift_yonlu_liste_basa_ve_sona_ekleme.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\5)cift_yonlu_liste_basa_ve_sona_ekleme\5)cift_yonlu_liste_basa_ve_sona_ekleme\obj\Debug\net8.0\ref\5)cift_yonlu_liste_basa_ve_sona_ekleme.dll

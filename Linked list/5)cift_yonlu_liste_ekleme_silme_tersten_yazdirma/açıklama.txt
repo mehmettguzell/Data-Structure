@@ -1,0 +1,1 @@
+paylaşımımda, çift yönlü doğrusal listede başa ve sona ekleme, baştan ve sondan silme, yazdırma ve tersten yazdırma metodları oluşturdum ve bunu menü haline getirdim. Node, Lİste ve program sınıflarını tek bir arayüz içerisinde yazdım. Kodlarım, "Program.cs" dosyası içinde bulunmaktadır. Ayrıca, Visual Studio proje dosyam da eklenmiştir.
