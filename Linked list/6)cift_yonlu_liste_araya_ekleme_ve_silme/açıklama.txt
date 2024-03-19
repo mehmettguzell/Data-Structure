@@ -1,0 +1,1 @@
+Bu paylaşımımda, çift yönlü doğrusal listede önceki yaptıklarımın tekrarını yaptım. Aradan eleman silme eve araya eleman ekleme metodlarını oluşturdum ve bunu menü haline getirdim. Node, Lİste ve program sınıflarını tek bir arayüz içerisinde yazdım. Kodlarım, "Program.cs" dosyası içinde bulunmaktadır. Ayrıca, Visual Studio proje dosyam da eklenmiştir.

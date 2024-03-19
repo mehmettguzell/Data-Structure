@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\bin\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.exe
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\bin\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.deps.json
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\bin\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.runtimeconfig.json
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\bin\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\bin\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\refint\6)cift_yonlu_liste_araya_ekleme_ve_silme.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\6)cift_yonlu_liste_araya_ekleme_ve_silme.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\6)cift_yonlu_liste_araya_ekleme_ve_silme\6)cift_yonlu_liste_araya_ekleme_ve_silme\obj\Debug\net8.0\ref\6)cift_yonlu_liste_araya_ekleme_ve_silme.dll
