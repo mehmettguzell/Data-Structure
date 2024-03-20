@@ -1,0 +1,1 @@
+Bu paylaşımımda, tek yönlü dairesel listede, başa,sona,araya eleman ekleme ve baştan,sondan,aradana elemean silme metodlarını oluşturdum ve bunu menü haline getirdim. Node, Lİste ve program sınıflarını tek bir arayüz içerisinde yazdım. Kodlarım, "Program.cs" dosyası içinde bulunmaktadır. Ayrıca, Visual Studio proje dosyam da eklenmiştir.

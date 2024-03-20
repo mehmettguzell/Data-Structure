@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tek_Yonlu_Dairesel_Basa_ve_Sona_Ekleme/1.0.0": {
+        "runtime": {
+          "Tek_Yonlu_Dairesel_Basa_ve_Sona_Ekleme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tek_Yonlu_Dairesel_Basa_ve_Sona_Ekleme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
