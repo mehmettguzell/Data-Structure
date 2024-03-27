@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\bin\Debug\net8.0\8_cift_yonlu_dairesel_liste.exe
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\bin\Debug\net8.0\8_cift_yonlu_dairesel_liste.deps.json
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\bin\Debug\net8.0\8_cift_yonlu_dairesel_liste.runtimeconfig.json
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\bin\Debug\net8.0\8_cift_yonlu_dairesel_liste.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\bin\Debug\net8.0\8_cift_yonlu_dairesel_liste.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\8_cift_yonlu_dairesel_liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\8_cift_yonlu_dairesel_liste.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\8_cift_yonlu_dairesel_liste.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\8_cift_yonlu_dairesel_liste.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\8_cift_yonlu_dairesel_liste.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\refint\8_cift_yonlu_dairesel_liste.dll
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\8_cift_yonlu_dairesel_liste.pdb
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\8_cift_yonlu_dairesel_liste.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Data structure\Linked list\8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste\obj\Debug\net8.0\ref\8_cift_yonlu_dairesel_liste.dll

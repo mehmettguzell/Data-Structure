@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_cift_yonlu_dairesel_liste", "8_cift_yonlu_dairesel_liste\8_cift_yonlu_dairesel_liste.csproj", "{6D23D398-46BF-4029-AA9C-CD5F75AEAD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D23D398-46BF-4029-AA9C-CD5F75AEAD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D23D398-46BF-4029-AA9C-CD5F75AEAD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D23D398-46BF-4029-AA9C-CD5F75AEAD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D23D398-46BF-4029-AA9C-CD5F75AEAD16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65C4445-FCC8-4E6E-ABC1-706A32AEAD94}
+	EndGlobalSection
+EndGlobal
