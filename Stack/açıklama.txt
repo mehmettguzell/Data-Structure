@@ -1,0 +1,9 @@
+Bu paylaşımımda bir Stack yapısı kurdum ardından bunu menü haline getirdim.
+
+
+Programın İçeriği:
+*pop();
+*push();
+*print();
+*topPrint();  // top elemanı yazdırma
+*ekranı temizleme
