@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\bin\Debug\net8.0\Queue.exe
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\bin\Debug\net8.0\Queue.deps.json
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\bin\Debug\net8.0\Queue.dll
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\bin\Debug\net8.0\Queue.pdb
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\Queue.dll
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\refint\Queue.dll
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\Queue.pdb
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Data structure\Queue\Queue\Queue\obj\Debug\net8.0\ref\Queue.dll

@@ -1,0 +1,14 @@
+Bu paylaşımımda bir QUEUE yapısı kurdum ardından bunu menü haline getirdim. Bu seferki paylaşımımda oluşturduğum yapıya ekstra fonksiyonlar ekledim.
+
+
+QUEUE = Fısrt In Fırst Out
+
+Programın İçeriği:
+*deQueue    //eleman ekleme ( en son eklenen elemanın (rear) next'ine ekleme yapıyorum. rear ı güncelliyorum.)
+*enQueue    //eleman çıkarma ( en baştaki eleman (front) ilk giren eleman olduğu için en baştaki elemanı çıkarıyorum (front' a sonraki eklenen elemanı atıyorum))
+*peek       //Kuyruğa eklenen ilk elemanı yazdır
+*print
+*ekranı temizleme
+*isEmpty    //QUEUE boş mu 
+*size       //QUEUE'nin Eleman sayısı
+*clear	    //Queue' yi sıfırlama
